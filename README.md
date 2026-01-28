@@ -37,20 +37,30 @@ EDA was performed to answer key questions, such as, but not limited to:
 
 ### Results/Findings
 
-1. We found that customers with "Fair" credit scores tend to exit the bank the most compared to other credit scores. This is also true for both genders.
-2. Customers with only 1 product from the bank tend to exit the most compared to multiple product users. Another note, we found that users with 4 products have all exited the bank.
-3. "Old" customers whose over the age of 55 had the highest percentage in exiting the bank. 36.75% of "old" users have churned, which is a little more than 1/3 of users.
-4. We found users that had been with the bank for years 1 through 5 were most likely to churn compared to newly acquired users and users who had stayed past 5 years.
+1. Prices vary drastically depending on the car's make, model, and body type. We found that brands such as Rolls-Royce, Ferrari, Lamborghini yielded high average sold cars compared to other brands. SUVs consistently achieve higher average selling prices relative to sedans, reflecting stronger market valuation.
+
+2. Analysis shows that 46.3% of cars sold were above the MMR, indicating over half of the cars yielded a loss in profit.
+
+3. The average price difference between automatic and manual cars is around $2,400. The average price for automatic cars is $13,523, where the average price for manual cars is $11,137.
+
+4. The older the car is, the less selling price the car would be. Odometer readings shows that high values would result in lower selling prices.
+
+5. Florida, California, and Pennsylvania were the top 3 states that had the highest revenue. Ford Motors, Nissan-Infiniti lt, and Hertz corporation were the top 3 sellers that had the highest revenue. 
+   
+<img width="151" height="213" alt="image" src="https://github.com/user-attachments/assets/524779e2-fd16-4846-975d-ae6c3ce6142a" />
+<img width="296" height="208" alt="image" src="https://github.com/user-attachments/assets/869ad781-4349-49ab-be0b-78d11df2bce0" />
+
+6. Seasonal trends indicate that winter significantly outperforms spring and summer in total sales volume.
 
 
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
 
-We recommend trying to retain the customers as soon as they are acquired. The rate of churning appears to happen after year 1, so any time before that is crucial. We may also recommend to target customers with higher than "Fair" credit scores as the higher the credit score, the less likely the customers are to churn. Afterwards, we may suggest to promote other business products to the customers to have them stay with the business as most customers tend to churn with only 1 product.
+We recommend car sellers to focus more on SUVs than sedans as the average selling price is higher on SUVs than sedans. Also, our analysis shows that cars sold during the Winter season had more than triple the sales compared to Spring and Summer. Sellers should focus on selling cars during the Winter season. Cars with high odometer readings and are older would yield a lower selling price, which could lead to a loss in profit compared to newer cars with lower odometer readings. 
 
 ### Limitations
 
-This provided dataset was limited to a certain extent. More context and information may be needed to fully depict the accuracy of customer churn. Maybe conduct a survey for these individual customers to gauge their satisfaction levels with the business. This may help determine if the customer is likely to churn or not. 
+The dataset had several limitations such as missing values, outliers, and labels that could have been segmented together. We made the choice to not omit any missing values as there were many rows of data that had missing values and it would had been a great loss of data if we had removed them. 
 
 
