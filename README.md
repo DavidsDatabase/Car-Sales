@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project focuses on car sales from 1980s to 2010s with many different variables affecting sales such as car make and model, manufacturing year, odometer reading, condition. We aim to determine which factors affect selling prices the most and find which yields the most profit. Using SQL, this project will answer key business questions around vehicle information, attributes, and seller performance. 
+This project focuses on car sales from 1980s to 2010s with many different variables affecting sales such as car make and model, manufacturing year, odometer reading, and condition. We aim to determine which factors affect selling prices and find which yields the most profit. Using SQL, this project will answer key business questions around vehicle information, attributes, and seller performance. 
 
 ### About the Data
 
